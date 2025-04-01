@@ -11,3 +11,4 @@ node_modules/
 # Swift build folders
 DerivedData/
 build/
+backend/ai-doctor-server/.env
